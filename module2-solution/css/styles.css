@@ -8,16 +8,12 @@ h1 {
   text-align: center;
   font-size: 1.75em;
 }
-
-p {
-  
+p {  
   clear: both;
-  
   margin-right: auto;
   margin-left: auto;
-padding:8px;
-text-align: justify;
-
+  padding:8px;
+  text-align: justify;
 }
 h2{
   text-align: center;
@@ -34,21 +30,27 @@ h2{
   right: 0px;
   top: 0px;
   margin-top: 0
-
-
 }
 .section{
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
   border: 1px solid black;
-
+  background-color: lightgray;
+}
+.chicken{
+  background-color: #AF4D98;
+  color: white;
+}
+.beef{
+  background-color: #E5A9A9;
+}
+.shushi{
+  background-color: #9DF7E5;
 }
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
-
-
 }
 
 /********** Large devices only **********/
