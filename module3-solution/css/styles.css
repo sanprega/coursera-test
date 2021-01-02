@@ -44,14 +44,38 @@ body{
 }
 
 /*CONTENT*/
-.content-item{
-	background-color: #145DA0;
-}
-.content-item p{
-	text-align: justify;
-}
 #page-title{
 	color: #0C2D48;
 	margin-top:-5px;
 	margin-bottom: 25px;
+}
+#chicken, #beef, #sushi{
+	background-color: #2E8BC0;
+}
+#chicken p, #beef p, #sushi p{
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: justify;
+}
+#chicken h3, #beef h3, #sushi h3{
+	padding-top: 15px;
+
+}
+#chicken p a:hover, #chicken p a:focus {
+	text-decoration: none;
+}
+#chicken p a{
+	color: #B1D4E0;
+}
+#sushi p a:hover, #sushi p a:focus {
+	text-decoration: none;
+}
+#sushi p a{
+	color: #B1D4E0;
+}
+#beef p a:hover, #beef p a:focus {
+	text-decoration: none;
+}
+#beef p a{
+	color: #B1D4E0;
 }
