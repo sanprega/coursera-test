@@ -2,6 +2,7 @@
 [Module3](./module3-solution/index.html)
 [Module3-optional](./module3-solution/index-optional.html)
 [Module4](./module4-solution/index.html)
+[Module5](./module5-solution/index.html)
 
 ## Welcome to GitHub Pages
 
